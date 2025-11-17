@@ -1,4 +1,4 @@
-# 🕰️ Analog Clock Time Detector
+# 🕰️ Analog Clock Reader
 
 This project provides a solution for detecting the time displayed on an analog clock from an image. It leverages image processing techniques using OpenCV to identify clock hands, calculate their angles, and convert these angles into corresponding hour, minute, and second values.
 
