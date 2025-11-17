@@ -47,4 +47,6 @@ This project provides a solution for detecting the time displayed on an analog c
 
 📸 **Examples**
 
-<img src="assets/example1.png" alt="Minimal Clock Example" width="400"/> <img src="assets/example2.png" alt="Complex Clock Example" width="400"/>
+| ![Minimal Clock Example](assets/example1.png) | ![Complex Clock Example](assets/example2.png) |
+| :---: | :---: |
+| **Minimal Clock Example** | **Complex Clock Example** |
